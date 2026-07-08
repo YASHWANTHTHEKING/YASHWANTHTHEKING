@@ -29,8 +29,6 @@
 
 ## 💼 Experience & Leadership
 
-- **Organizer | Google Developer Groups (GDG) on Campus**
-  - Organizing community initiatives, managing event tasks, and coordinating the Solution Challenge to foster a strong developer community.
 - **Data Specialist Intern** 
   - Completed a 2-month internship focusing on data modeling and research within the healthcare domain.
 
