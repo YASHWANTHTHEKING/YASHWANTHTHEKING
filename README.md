@@ -123,7 +123,7 @@ Desktop virtual assistant supporting speech commands.
 
 ## 🎯 2026 Goals
 
-✅ Solve 500+ LeetCode Problems  
+✅ Solve 200+ LeetCode Problems  
 🚀 Build Production AI Applications  
 📚 Master Backend Development  
 🤝 Contribute to Open Source  
