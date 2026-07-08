@@ -1,166 +1,132 @@
-<h1 align="center">Hi 👋, I'm N. V. Yashwanth</h1>
-<h3 align="center">
-Computer Science Engineering Student | AI & Full Stack Developer | ML Enthusiast
-</h3>
+<div align="center">
 
-<p align="center">
-Building intelligent applications with AI, Machine Learning, Full Stack Development, and Data Engineering.
-</p>
+# 👋 Hi, I'm N. V. Yashwanth
 
----
+### AI Developer • Full Stack Developer • Machine Learning Enthusiast
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=900&lines=Computer+Science+Engineering+Student;AI+%26+Machine+Learning+Developer;Full+Stack+Developer;Building+Real+World+Projects;Always+Learning+Something+New" alt="Typing SVG" />
+
+<img src="https://komarev.com/ghpvc/?username=YASHWANTHTHEKING&style=for-the-badge&color=blue" alt="Profile Views" />
+
+</div>
 
 ## 🚀 About Me
 
-🎓 B.E. Computer Science Engineering (2023–2027)
+🎓 **B.E. Computer Science Engineering** (2023–2027)  
+🏫 **Prince Shri Venkateshwara Padmavathi Engineering College**  
+💡 Passionate about building scalable AI-powered applications that solve real-world problems.
 
-🏫 Prince Shri Venkateshwara Padmavathi Engineering College
-
-💻 Passionate about
-
-- Artificial Intelligence
-- Machine Learning
-- Full Stack Development
-- Data Engineering
-- Backend Development
-- Problem Solving
-
-🌱 Currently Learning
-
+**🌱 Currently exploring:**
 - FastAPI
+- Large Language Models
 - Advanced DSA
+- Backend Development
 - System Design
-- LLM Applications
-- Docker
 
-⚡ Fun Fact
-
-I enjoy building real-world AI applications that solve practical problems.
+**🎯 Goal:** Become a Software Engineer specializing in AI-powered products.
 
 ---
 
-## 🛠 Tech Stack
+## 💼 Experience & Leadership
 
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+- **Organizer | Google Developer Groups (GDG) on Campus**
+  - Organizing community initiatives, managing event tasks, and coordinating the Solution Challenge to foster a strong developer community.
+- **Data Specialist Intern** 
+  - Completed a 2-month internship focusing on data modeling and research within the healthcare domain.
 
 ---
 
-### Frameworks & Libraries
+## 🚀 Featured Projects
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-![Scikit Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn)
+<table>
+<tr>
+<td width="50%">
 
----
+### 🤖 AI Resume Analyzer
+AI-powered ATS Resume Analyzer with candidate ranking.
+*Python • Streamlit • Gemini API*
+</td>
+<td width="50%">
 
-### Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j)
-
----
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker)
-![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva)
-
----
-
-## 🌟 Featured Projects
-
-### 🤖 AI-Powered API Test Generator
-
+### 🧪 AI API Test Generator
 Generate intelligent API test cases using AI.
+*FastAPI • Python*
+</td>
+</tr>
+<tr>
+<td>
 
-**Tech**
-
-- FastAPI
-- Python
-- Gemini AI
-- Streamlit
-
----
+### 🌐 Interactive 3D Portfolio
+Modern developer portfolio with immersive UI.
+*React • Three.js • GSAP*
+</td>
+<td>
 
 ### 🎙 Voice Assistant
-
-A desktop virtual assistant capable of speech recognition and executing voice commands.
-
-**Tech**
-
-- Python
-- Speech Recognition
-- NLP
+Desktop virtual assistant supporting speech commands.
+*Python • NLP • Speech Recognition*
+</td>
+</tr>
+</table>
 
 ---
 
-### 🧠 AI Resume Analyzer
+## 💻 Tech Stack
 
-An intelligent ATS Resume Analyzer using Google Gemini API.
-
-**Tech**
-
-- Python
-- Streamlit
-- Gemini API
-
----
-
-### 🌐 Interactive 3D Developer Portfolio
-
-Modern immersive portfolio built using React, Three.js and GSAP.
+**Languages:** Python • Java • C++ • JavaScript • HTML • CSS  
+**Backend:** FastAPI • Flask  
+**Frontend:** React • Vite  
+**AI/ML:** TensorFlow • PyTorch • Scikit-learn • Pandas • NumPy  
+**Databases:** MySQL • Neo4j • SQLite • Firebase  
+**Tools:** Git • GitHub • Docker • Figma • Canva • Vercel • Render  
 
 ---
 
-## 📈 GitHub Statistics
+## 📊 GitHub Analytics
 
 <p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YASHWANTHTHEKING&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YASHWANTHTHEKING&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=YASHWANTHTHEKING&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YASHWANTHTHEKING&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YASHWANTHTHEKING&layout=compact&theme=tokyonight"/>
-
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YASHWANTHTHEKING&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
-## 📫 Connect with Me
+## 📈 Contribution Graph
 
-<p align="left">
+![](https://github-readme-activity-graph.vercel.app/graph?username=YASHWANTHTHEKING&theme=tokyo-night)
 
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+---
+
+## 🏆 Achievements
+
+![](https://github-profile-trophy.vercel.app/?username=YASHWANTHTHEKING&theme=tokyonight&no-frame=true&row=2&column=4)
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/yashwanth-nv-78b5502a4/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
 </a>
-
-<a href="YOUR_INSTAGRAM">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://yashwanththeking.github.io/myportfolio/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel" alt="Portfolio" />
 </a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:yash123ace@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail" alt="Gmail" />
 </a>
-
 </p>
 
 ---
 
-![](https://komarev.com/ghpvc/?username=YASHWANTHTHEKING&style=for-the-badge)
+## 🎯 2026 Goals
 
-⭐ Thanks for visiting my profile!
+✅ Solve 500+ LeetCode Problems  
+🚀 Build Production AI Applications  
+📚 Master Backend Development  
+🤝 Contribute to Open Source  
+💼 Secure an AI / Software Engineering Internship
